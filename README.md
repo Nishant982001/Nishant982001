@@ -1,5 +1,5 @@
 # **👋 Hey, Nishant here**  
-## ** Generative AI & Agentic AI Engineer**  
+## Generative AI & Agentic AI Engineer 
 
 🔹 Passionate about **building cutting-edge AI applications** using **LLMs, Multi-Agent Systems, and MLOps**  
 🔹 Skilled in **LangChain, RAG Pipelines, Transformer Models, and AI Deployment**  
@@ -7,7 +7,7 @@
 
 ---
 
-## ** Connect with Me**  
+## **Connect with Me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourprofile)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/yourgithub)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square)](https://yourportfolio.com)  
