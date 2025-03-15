@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a Generative AI & Agentic AI Engineer with expertise in LLMs, Deep Learning, and AI Infrastructure. My focus is on developing intelligent, self-improving AI agents capable of autonomous reasoning, planning, and execution. I specialize in Retrieval-Augmented Generation (RAG), multi-agent collaboration, and MLOps for scalable AI deployment.
+Generative AI & Agentic AI Engineer with expertise in LLMs, Deep Learning, and AI Infrastructure. My focus is on developing intelligent, self-improving AI agents capable of autonomous reasoning, planning, and execution. I specialize in Retrieval-Augmented Generation (RAG), multi-agent collaboration, and MLOps for scalable AI deployment.
 
 I thrive on solving complex AI challenges, fine-tuning LLMs (GPT-4, LLaMA, Mistral, Claude), and integrating AI with real-world applications. My work spans across AI-powered research assistants, enterprise AI automation, and advanced AI-driven search systems.
 
